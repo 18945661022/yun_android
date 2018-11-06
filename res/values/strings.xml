@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">yun</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="url_str">http://android.vividworld.cn/CommController?svcCont={\"name\":\"%1$s\"}&amp;methodName=selectResourcePackageInfor&amp;version=V1</string>
+
+</resources>
